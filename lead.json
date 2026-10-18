@@ -1,0 +1,313 @@
+{
+ "slug": "rostanzo",
+ "name": "Centro Rostanzo · Odontología Biológica",
+ "short": "Rostanzo",
+ "schema": "Dentist",
+ "meta_title": "Odontología biológica en Recoleta | Centro Rostanzo · Dra. Analia Rostanzo",
+ "meta_desc": "Odontología biológica integrativa y ortodoncia miofuncional con la Dra. Analia Rostanzo en Ecuador 1416, CABA. Niños y adultos, sin miedo al odontólogo.",
+ "h1": [
+  "Odontología",
+  "biológica"
+ ],
+ "hero_left": "Dra. Analia Rostanzo, máster en Odontología Biológica RMR. Ecuador 1416, CABA.",
+ "rating": "5,0",
+ "reviews_count": 6,
+ "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Rostanzo&query_place_id=ChIJRe12WeHLvJURJO0IEy3dNn4",
+ "street": "Ecuador 1416 3° C",
+ "map_q": "Ecuador 1416, Buenos Aires",
+ "address_line": "Ecuador 1416, 3° C · CABA",
+ "phone_display": "11 3401-7626",
+ "phone_intl": "+54 9 11 3401-7626",
+ "wa": "5491134017626",
+ "ig": "centrorostanzo",
+ "hours_lines": [
+  "Horario: Lorem ipsum"
+ ],
+ "nav": [
+  [
+   "servicios",
+   "Tratamientos"
+  ],
+  [
+   "lugar",
+   "El centro"
+  ],
+  [
+   "preguntas",
+   "Preguntas"
+  ]
+ ],
+ "cta": "Pedir turno",
+ "cta_long": "Pedir la primera consulta",
+ "stair": [
+  "Miramos la boca",
+  "como parte del cuerpo:",
+  "la lengua, la respiración,",
+  "la microbiota",
+  "y lo que comés."
+ ],
+ "stair_note": "Niños y adultos. Técnicas manuales y rotatorios de baja velocidad para los que le tienen miedo al odontólogo.",
+ "table": {
+  "title": "Lo que se trata acá",
+  "cols": [
+   "Odontología biológica",
+   "Ortodoncia miofuncional",
+   "Para chicos"
+  ],
+  "rows": [
+   [
+    "Qué es",
+    "Tratar la causa del problema, no solo el diente: microbiota, inflamación, alimentación",
+    "Alinear sin depender solo de brackets, trabajando lengua, respiración y masticación",
+    "Caries y controles con técnicas suaves, sin el ruido del torno"
+   ],
+   [
+    "Ejemplos",
+    "Halitosis, disbiosis oral, encías inflamadas, entre otros",
+    "Lengua atada, respiración bucal, mordidas cruzadas",
+    "Primeras consultas, miedo al dentista, caries"
+   ],
+   [
+    "Herramientas",
+    "Tinturas madre, oil pulling y probióticos, según el caso",
+    "Aparatología funcional RMR<!-- A CONFIRMAR -->",
+    "Técnicas manuales y rotatorios de baja velocidad"
+   ],
+   [
+    "Formación",
+    "Máster en Odontología Biológica RMR",
+    "Rehabilitación Neuro-Oclusal (congreso CIRNO, Málaga 2026)",
+    "Lorem ipsum dolor sit amet<!-- A CONFIRMAR -->"
+   ],
+   [
+    "Con quién",
+    "Dra. Analia Rostanzo",
+    "Dra. Analia Rostanzo y equipo<!-- A CONFIRMAR -->",
+    "Dra. Analia Rostanzo"
+   ]
+  ]
+ },
+ "gallery": {
+  "title": [
+   "El",
+   "centro"
+  ],
+  "photos": [
+   "consultorio",
+   "master",
+   "congreso"
+  ],
+  "note": "En Ecuador 1416 te recibe Cecilia. \"Calidez, experiencia y buena atención desde que llegás\", escribió Patricia Goldman."
+ },
+ "steps": {
+  "title": "Cómo es la primera vez",
+  "intro": "Una consulta larga, para entender qué está pasando en tu boca y por qué.",
+  "items": [
+   {
+    "name": "Escribís",
+    "text": "Por WhatsApp contás qué te pasa: dolor, mal aliento, un hijo con miedo, una segunda opinión.",
+    "photo": "card1"
+   },
+   {
+    "name": "La consulta",
+    "text": "Revisión de la boca, la lengua y la mordida, y preguntas sobre tu alimentación y tu salud general.",
+    "photo": "card2"
+   },
+   {
+    "name": "El plan",
+    "text": "Un plan integral, explicado paso por paso, con los tiempos de cada etapa.<!-- A CONFIRMAR -->",
+    "photo": "card3"
+   },
+   {
+    "name": "Seguimiento",
+    "text": "Controles para ver cómo responde la boca y ajustar el plan.<!-- A CONFIRMAR: frecuencia de controles -->",
+    "photo": "card4"
+   }
+  ]
+ },
+ "voices": {
+  "lead": {
+   "q": "Calidez, experiencia y buena atención desde que llegás.",
+   "by": "Patricia Goldman"
+  },
+  "l": {
+   "q": "La súper recomiendo! Con los ojos cerrados!",
+   "by": "Patricia Goldman",
+   "role": "paciente"
+  },
+  "r": {
+   "q": "Muy recomendable el lugar sin dudas.",
+   "by": "Sebastián",
+   "role": "paciente"
+  }
+ },
+ "ticket": {
+  "title": "Primera consulta",
+  "items": [
+   "Boca, lengua y mordida",
+   "Niños y adultos",
+   "Ecuador 1416, 3° C"
+  ],
+  "price": "$ Lorem<!-- A CONFIRMAR -->",
+  "cta": "Pedir turno"
+ },
+ "faq": [
+  {
+   "tab": "Qué es",
+   "q": "¿Qué es la odontología biológica?",
+   "a": "Es una forma de trabajar que mira la boca como parte del cuerpo: busca la causa de un problema (inflamación, microbiota, alimentación, respiración) además de tratar el diente."
+  },
+  {
+   "tab": "Chicos",
+   "q": "¿Atienden chicos con miedo al dentista?",
+   "a": "Sí. Se usan técnicas manuales y rotatorios de baja velocidad, sin el ruido fuerte del torno, para que puedan tratarse las caries antes de que se compliquen."
+  },
+  {
+   "tab": "Aliento",
+   "q": "¿Tratan el mal aliento?",
+   "a": "Sí. La halitosis no siempre es culpa del cepillo: se busca la causa y se trabaja con tinturas madre, oil pulling y probióticos, según cada caso."
+  },
+  {
+   "tab": "Brackets",
+   "q": "¿Los brackets son la única opción para alinear?",
+   "a": "No siempre. La ortodoncia miofuncional trabaja la lengua, la respiración y la masticación, que muchas veces son el origen del problema."
+  },
+  {
+   "tab": "Obras sociales",
+   "q": "¿Atienden obras sociales?",
+   "a": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<!-- A CONFIRMAR -->"
+  },
+  {
+   "tab": "Dónde",
+   "q": "¿Dónde queda?",
+   "a": "En Ecuador 1416, 3° C, Ciudad de Buenos Aires."
+  }
+ ],
+ "coupon": {
+  "title": "Pedí tu turno",
+  "text": "Elegí el motivo y para quién es. Te armamos el mensaje para mandarlo por WhatsApp.",
+  "fields": [
+   {
+    "name": "motivo",
+    "label": "Motivo",
+    "options": [
+     [
+      "una primera consulta",
+      "Primera consulta"
+     ],
+     [
+      "mal aliento",
+      "Mal aliento"
+     ],
+     [
+      "ortodoncia sin brackets",
+      "Ortodoncia miofuncional"
+     ],
+     [
+      "caries",
+      "Caries"
+     ],
+     [
+      "una segunda opinión",
+      "Segunda opinión"
+     ]
+    ]
+   },
+   {
+    "name": "quien",
+    "label": "Para quién",
+    "options": [
+     [
+      "para mí",
+      "Para mí"
+     ],
+     [
+      "para mi hijo/a",
+      "Para mi hijo/a"
+     ],
+     [
+      "para otra persona",
+      "Para otra persona"
+     ]
+    ]
+   }
+  ],
+  "msg": "Hola{saludo}! Quería pedir un turno con la Dra. Rostanzo {quien}, por {motivo}. ¿Qué días tienen?"
+ },
+ "palette": {
+  "bg": "#322d63",
+  "surface": "#3d377a",
+  "deep": "#241f4a",
+  "ink": "#fdf1e1",
+  "muted": "#cbc5f2",
+  "t1": "#4a4390",
+  "t2": "#6f66c4",
+  "t3": "#a49de0",
+  "t4": "#f9b14a"
+ },
+ "fonts": {
+  "href": "https://fonts.googleapis.com/css2?family=Fredoka:wght@600&family=Nunito+Sans:wght@400;600&display=swap",
+  "display": "\"Fredoka\",system-ui,sans-serif",
+  "text": "\"Nunito Sans\",system-ui,sans-serif",
+  "weight": 600,
+  "case": "none"
+ },
+ "photos": {
+  "hero": {
+   "file": "ig3.jpg",
+   "name": "dra-analia-rostanzo-congreso",
+   "alt": "La Dra. Analia Rostanzo presentando un póster en un congreso de odontología",
+   "cy": 0.35
+  },
+  "stair1": {
+   "file": "ig7.jpg",
+   "name": "congreso-cirno-malaga-2026",
+   "alt": "La Dra. Rostanzo en el 62° Congreso CIRNO de Málaga 2026",
+   "cy": 0.5
+  },
+  "stair2": {
+   "file": "ig2.jpg",
+   "name": "goetheanum-dornach",
+   "alt": "La doctora frente al Goetheanum, en Dornach, Suiza",
+   "cy": 0.45
+  },
+  "consultorio": {
+   "file": "ig8.jpg",
+   "name": "consultorio-ecuador-1416",
+   "alt": "La doctora con ambo rojo en el consultorio de Ecuador 1416",
+   "cy": 0.4
+  },
+  "master": {
+   "file": "ig5.jpg",
+   "name": "master-odontologia-biologica",
+   "alt": "La doctora en el encuentro del Máster en Odontología Biológica, Buenos Aires",
+   "cx": 0.62
+  },
+  "congreso": {
+   "file": "ig10.jpg",
+   "name": "congreso-biominds",
+   "alt": "La doctora con colegas en el congreso BIOMINDS de medicina y odontología biológica"
+  },
+  "card1": {
+   "file": "ig9.jpg",
+   "name": "sin-miedo-al-odontologo",
+   "alt": "Placa lavanda: niños y adultos sin miedo al odontólogo"
+  },
+  "card2": {
+   "file": "ig4.jpg",
+   "name": "centro-rostanzo-placa",
+   "alt": "Placa naranja del Centro Rostanzo"
+  },
+  "card3": {
+   "file": "ig11.jpg",
+   "name": "halitosis-placa",
+   "alt": "Placa naranja: halitosis, más allá de la higiene"
+  },
+  "card4": {
+   "file": "ig12.jpg",
+   "name": "microbiota-placa",
+   "alt": "Placa lavanda: tu microbiota es una aliada invisible"
+  }
+ },
+ "credits": "Fotos: Instagram de @centrorostanzo ·"
+}
