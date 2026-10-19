@@ -9,7 +9,7 @@
   "Odontología",
   "biológica"
  ],
- "hero_left": "Dra. Analia Rostanzo, máster en Odontología Biológica RMR. Ecuador 1416, CABA.",
+ "hero_left": "Dra. Analia Rostanzo, máster en Odontología Biológica RMR. Ozonoterapia, láser de diodo e implantes en Ecuador 1416, CABA.",
  "rating": "5,0",
  "reviews_count": 6,
  "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Rostanzo&query_place_id=ChIJRe12WeHLvJURJO0IEy3dNn4",
@@ -48,7 +48,7 @@
   "la microbiota",
   "y lo que comés."
  ],
- "stair_note": "Niños y adultos. Técnicas manuales y rotatorios de baja velocidad para los que le tienen miedo al odontólogo.",
+ "stair_note": "Niños y adultos. Para los que le tienen miedo al odontólogo: técnicas manuales, rotatorios de baja velocidad sin ruido, ozono y geles enzimáticos.",
  "table": {
   "title": "Lo que se trata acá",
   "cols": [
@@ -66,14 +66,14 @@
    [
     "Ejemplos",
     "Halitosis, disbiosis oral, encías inflamadas, entre otros",
-    "Lengua atada, respiración bucal, mordidas cruzadas",
+    "Deglución atípica, respiración bucal, mordidas cruzadas, entre otros",
     "Primeras consultas, miedo al dentista, caries"
    ],
    [
     "Herramientas",
-    "Tinturas madre, oil pulling y probióticos, según el caso",
+    "Ozonoterapia, láser de diodo, tinturas madre, oil pulling y probióticos, según el caso",
     "Aparatología funcional RMR<!-- A CONFIRMAR -->",
-    "Técnicas manuales y rotatorios de baja velocidad"
+    "Técnicas manuales, rotatorios de baja velocidad, ozono y geles enzimáticos"
    ],
    [
     "Formación",
@@ -99,7 +99,7 @@
    "master",
    "congreso"
   ],
-  "note": "En Ecuador 1416 te recibe Cecilia. \"Calidez, experiencia y buena atención desde que llegás\", escribió Patricia Goldman."
+  "note": "En septiembre de 2026 la doctora presentó un póster con un caso clínico en el Goetheanum de Dornach (Suiza), y en octubre estuvo en el Congreso Internacional de SNA en Buenos Aires. En Ecuador 1416 te recibe Cecilia."
  },
  "steps": {
   "title": "Cómo es la primera vez",
@@ -167,12 +167,17 @@
   {
    "tab": "Aliento",
    "q": "¿Tratan el mal aliento?",
-   "a": "Sí. La halitosis no siempre es culpa del cepillo: se busca la causa y se trabaja con tinturas madre, oil pulling y probióticos, según cada caso."
+   "a": "Sí. La halitosis no siempre es culpa del cepillo. Primero se descartan causas infecciosas y después se trabaja con tinturas madre, oil pulling y probióticos específicos para la boca, según cada caso."
   },
   {
    "tab": "Brackets",
    "q": "¿Los brackets son la única opción para alinear?",
-   "a": "No siempre. La ortodoncia miofuncional trabaja la lengua, la respiración y la masticación, que muchas veces son el origen del problema."
+   "a": "No siempre. La ortodoncia miofuncional trabaja la lengua, la respiración y la masticación. Un ejemplo: la deglución atípica, cuando al tragar la lengua empuja los dientes, puede desalinearlos aunque te cepilles bien."
+  },
+  {
+   "tab": "Implantes",
+   "q": "¿Hacen implantes y ozonoterapia?",
+   "a": "Sí. Además de la odontología biológica y la ortodoncia miofuncional, en el centro se hacen implantes, ozonoterapia y tratamientos con láser de diodo."
   },
   {
    "tab": "Obras sociales",
@@ -270,7 +275,7 @@
   "stair2": {
    "file": "ig2.jpg",
    "name": "goetheanum-dornach",
-   "alt": "La doctora frente al Goetheanum, en Dornach, Suiza",
+   "alt": "La Dra. Rostanzo frente al Goetheanum, en Dornach, Suiza, donde presentó un póster con un caso clínico",
    "cy": 0.45
   },
   "consultorio": {
