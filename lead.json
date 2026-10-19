@@ -9,7 +9,7 @@
   "Odontología",
   "biológica"
  ],
- "hero_left": "Dra. Analia Rostanzo, máster en Odontología Biológica RMR. Ozonoterapia, láser de diodo e implantes en Ecuador 1416, CABA.",
+ "hero_left": "La Dra. Analia Rostanzo mira la boca como parte del cuerpo: microbiota, respiración, lengua y alimentación. Endodoncia, implantes, ozonoterapia y ortodoncia miofuncional, para chicos y grandes.",
  "rating": "5,0",
  "reviews_count": 6,
  "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%20Rostanzo&query_place_id=ChIJRe12WeHLvJURJO0IEy3dNn4",
@@ -79,12 +79,12 @@
     "Formación",
     "Máster en Odontología Biológica RMR",
     "Rehabilitación Neuro-Oclusal (congreso CIRNO, Málaga 2026)",
-    "Lorem ipsum dolor sit amet<!-- A CONFIRMAR -->"
+    "Especialista en Endodoncia (U. Maimónides) e Implantología Oral (UCA)"
    ],
    [
     "Con quién",
     "Dra. Analia Rostanzo",
-    "Dra. Analia Rostanzo y equipo<!-- A CONFIRMAR -->",
+    "Dra. Analia Rostanzo",
     "Dra. Analia Rostanzo"
    ]
   ]
@@ -160,6 +160,11 @@
    "a": "Es una forma de trabajar que mira la boca como parte del cuerpo: busca la causa de un problema (inflamación, microbiota, alimentación, respiración) además de tratar el diente."
   },
   {
+   "tab": "La doctora",
+   "q": "¿Qué formación tiene la Dra. Rostanzo?",
+   "a": "Es especialista en Endodoncia (Universidad Maimónides), donde también es docente de la cátedra, y especialista en Implantología Oral (UCA). Además hizo el Máster en Odontología Biológica RMR y se sigue formando en congresos como CIRNO (Málaga) y el del Goetheanum (Suiza)."
+  },
+  {
    "tab": "Chicos",
    "q": "¿Atienden chicos con miedo al dentista?",
    "a": "Sí. Se usan técnicas manuales, rotatorios de baja velocidad sin el ruido del torno, ozono y geles enzimáticos, para que las sesiones sean más amigables y las caries se traten antes de que se compliquen."
@@ -181,8 +186,8 @@
   },
   {
    "tab": "Obras sociales",
-   "q": "¿Atienden obras sociales?",
-   "a": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<!-- A CONFIRMAR -->"
+   "q": "¿Qué obras sociales y prepagas atienden?",
+   "a": "OSDE, Hospital Alemán, Sancor Salud, OSEW y HOPE, entre otras. Si la tuya no está en la lista, escribinos y te decimos cómo trabajamos.<!-- A CONFIRMAR: lista sacada de su página de iTurnos, confirmar que siga vigente -->"
   },
   {
    "tab": "Días",
@@ -268,7 +273,8 @@
    "file": "ig3.jpg",
    "name": "dra-analia-rostanzo-congreso",
    "alt": "La Dra. Analia Rostanzo presentando un póster en un congreso de odontología",
-   "cy": 0.35
+   "cy": 0.35,
+   "cx": 0.5
   },
   "stair1": {
    "file": "ig7.jpg",
@@ -343,5 +349,20 @@
    "opens": "08:30",
    "closes": "15:00"
   }
+ ],
+ "hero_variant": "split",
+ "logo": "logo-mark.png",
+ "hero_eyebrow": "Centro Rostanzo · Recoleta",
+ "hero_badge": [
+  "Máster en",
+  "Odontología Biológica RMR"
+ ],
+ "hero_facts": [
+  "Lun a jue",
+  "OSDE, Sancor y más"
+ ],
+ "hero_sticker": [
+  "Niños y adultos",
+  "sin miedo al odontólogo"
  ]
 }
