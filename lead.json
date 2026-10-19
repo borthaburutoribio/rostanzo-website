@@ -162,7 +162,7 @@
   {
    "tab": "Chicos",
    "q": "¿Atienden chicos con miedo al dentista?",
-   "a": "Sí. Se usan técnicas manuales y rotatorios de baja velocidad, sin el ruido fuerte del torno, para que puedan tratarse las caries antes de que se compliquen."
+   "a": "Sí. Se usan técnicas manuales, rotatorios de baja velocidad sin el ruido del torno, ozono y geles enzimáticos, para que las sesiones sean más amigables y las caries se traten antes de que se compliquen."
   },
   {
    "tab": "Aliento",
@@ -209,6 +209,10 @@
      [
       "ortodoncia sin brackets",
       "Ortodoncia miofuncional"
+     ],
+     [
+      "implantes",
+      "Implantes"
      ],
      [
       "caries",
