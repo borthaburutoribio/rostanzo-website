@@ -21,7 +21,9 @@
  "wa": "5491134017626",
  "ig": "centrorostanzo",
  "hours_lines": [
-  "Horario: Lorem ipsum"
+  "Lun 12 a 18 h",
+  "Mar y jue 10 a 15 h",
+  "Mié 8:30 a 15 h"
  ],
  "nav": [
   [
@@ -146,7 +148,7 @@
   "items": [
    "Boca, lengua y mordida",
    "Niños y adultos",
-   "Ecuador 1416, 3° C"
+   "Lun a jue · Ecuador 1416"
   ],
   "price": "$ Lorem<!-- A CONFIRMAR -->",
   "cta": "Pedir turno"
@@ -178,9 +180,9 @@
    "a": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<!-- A CONFIRMAR -->"
   },
   {
-   "tab": "Dónde",
-   "q": "¿Dónde queda?",
-   "a": "En Ecuador 1416, 3° C, Ciudad de Buenos Aires."
+   "tab": "Días",
+   "q": "¿Qué días atienden y dónde?",
+   "a": "Lunes de 12 a 18, martes y jueves de 10 a 15, y miércoles desde las 8:30 hasta las 15. Viernes y fines de semana, cerrado. El consultorio está en Ecuador 1416, 3° C."
   }
  ],
  "coupon": {
@@ -309,5 +311,28 @@
    "alt": "Placa lavanda: tu microbiota es una aliada invisible"
   }
  },
- "credits": "Fotos: Instagram de @centrorostanzo ·"
+ "credits": "Fotos: Instagram de @centrorostanzo ·",
+ "hours_schema": [
+  {
+   "@type": "OpeningHoursSpecification",
+   "dayOfWeek": "Monday",
+   "opens": "12:00",
+   "closes": "18:00"
+  },
+  {
+   "@type": "OpeningHoursSpecification",
+   "dayOfWeek": [
+    "Tuesday",
+    "Thursday"
+   ],
+   "opens": "10:00",
+   "closes": "15:00"
+  },
+  {
+   "@type": "OpeningHoursSpecification",
+   "dayOfWeek": "Wednesday",
+   "opens": "08:30",
+   "closes": "15:00"
+  }
+ ]
 }
